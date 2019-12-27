@@ -1,7 +1,7 @@
 ## Teste teste
 
 TESTE:
-[<img src="http://www.google.com.au/images/nav_logo7.png"> alt="drawing" width="200"/](http://google.com.au/)
+[<img src="http://www.google.com.au/images/nav_logo7.png" alt="drawing" width="200"/>](http://google.com.au/)
 
 [CV in English](./about.html)
 
