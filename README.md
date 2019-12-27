@@ -4,6 +4,7 @@ TESTE:
 [<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 
 [CV in English](./about.html).
+
 [CV em Português](./about.html).
 
 You can use the [editor on GitHub](https://github.com/thiagoapr/thiagoapr.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
