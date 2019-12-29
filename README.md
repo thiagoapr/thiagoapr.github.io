@@ -1,6 +1,8 @@
-Energy Research Analyst<br/>
-Energy Economics Studies Department<br/>
-Energy Research Office (EPE)
+**Energy Research Analyst**<br/>
+**Energy Economics Studies Department**<br/>
+**Energy Research Office (EPE)**
+
+* * *
 
 ### Education
 
