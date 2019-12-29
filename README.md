@@ -1,14 +1,35 @@
 Energy Research Analyst<br/>
-Energy Economic Studies Department<br/>
+Energy Economics Studies Department<br/>
 Energy Research Office (EPE)
+
+### Education
+
+M.Sc. in Economics, Federal University of Minas Gerais, Brazil, 2013. 
+B.Sc. in Economics, University of São Paulo, Brazil, 2007.
+
+* * *
+
+### Curriculum Vitae
+
+[in English](./about.html) <br/>
+[em Português](./about.html)
+
+* * *
+
+### Fields
+
+- List
+
+
+
+
+
 
 
 TESTE:
 [<img src="http://www.google.com.au/images/nav_logo7.png" alt="drawing" width="50"/>](http://google.com.au/)
 
-[CV in English](./about.html)
 
-[CV em Português](./about.html)
 
 You can use the [editor on GitHub](https://github.com/thiagoapr/thiagoapr.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
