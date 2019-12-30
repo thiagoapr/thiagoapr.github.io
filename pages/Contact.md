@@ -2,14 +2,11 @@
 
 E-mail: rodrigues.t@gmail.com
 
+[GitHub](https://github.com/thiagoapr)
 
-[![github](/figura/github-logo.png =50x)](https://github.com/thiagoapr)
+[LinkedIn](https://br.linkedin.com/in/thiago-pastorelli-rodrigues-b4803813)
 
-[<img src="./Figura/github-logo.png" alt="drawing" width="50"/>](https://github.com/thiagoapr)
-
-[<img src="./Figura/github-logo.png" alt="drawing" width="50"/>](https://br.linkedin.com/in/thiago-pastorelli-rodrigues-b4803813)
-
-[<img src="./Figura/github-logo.png" alt="drawing" width="50"/>](https://www.researchgate.net/profile/Thiago_Pastorelli_Rodrigues)
+[ResearchGate](https://www.researchgate.net/profile/Thiago_Pastorelli_Rodrigues)
 
 
 
