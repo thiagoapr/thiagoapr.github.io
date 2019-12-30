@@ -10,7 +10,7 @@ Energy Research Office (EPE), Brazil
 
 ### Education
 
-Ph.D. in Economics, University of Sao Paulo, Brazil. <br/> 
+Ph.D. Candidate in Economics, University of Sao Paulo, Brazil. <br/> 
 M.Sc. in Economics, Federal University of Minas Gerais, Brazil, 2013. <br/> 
 B.Sc. in Economics, University of Sao Paulo, Brazil, 2007.
 
