@@ -2,13 +2,15 @@
 
 E-mail: rodrigues.t@gmail.com
 
-[GitHub](https://github.com/thiagoapr)
+[ResearchGate](https://www.researchgate.net/profile/Thiago_Pastorelli_Rodrigues)
 
 [LinkedIn](https://br.linkedin.com/in/thiago-pastorelli-rodrigues-b4803813)
 
-[ResearchGate](https://www.researchgate.net/profile/Thiago_Pastorelli_Rodrigues)
+[GitHub](https://github.com/thiagoapr)
 
+<br/><br/> 
 
+[back](./README.html)
 
 
 
