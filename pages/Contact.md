@@ -1,6 +1,9 @@
-### Contact Informations
+### Contact informations
 
 E-mail: rodrigues.t@gmail.com
+
+
+[![github](/figura/github-logo.png)](https://github.com/thiagoapr)
 
 [<img src="./Figura/github-logo.png" alt="drawing" width="50"/>](https://github.com/thiagoapr)
 
