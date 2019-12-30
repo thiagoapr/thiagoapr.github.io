@@ -47,13 +47,13 @@ Cultural Expenditure and Strategic Interaction Among Municipalities of Minas Ger
 
 ### Working in progress
 
-The Impact of Wind Power on the Brazilian Labor Market (with S. Goncalves and A. Chagas) [(link)](./WindPowerLabor.html) <br/>
+The Impact of Wind Power on the Brazilian Labor Market (with S. Goncalves and A. Chagas) [(link)](./pages/publications/WindPowerLabor.html) <br/>
 
 
-Elasticities of Residential Demand for LPG in Brazil (with S. Goncalves) [(link)](./ResidentialLPG.html) <br/>
+Elasticities of Residential Demand for LPG in Brazil (with S. Goncalves) [(link)](./pages/publications/ResidentialLPG.html) <br/>
 
 
-Poverty and Energy Transition: a Multinomial Analysis for Households in Brazil (with S. Goncalves) [(link)](./PovertyEnergy.html) <br/>
+Poverty and Energy Transition: a Multinomial Analysis for Households in Brazil (with S. Goncalves) [(link)](./pages/publications/PovertyEnergy.html) <br/>
 
 
 
