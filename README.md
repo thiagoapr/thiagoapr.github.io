@@ -19,7 +19,7 @@ B.Sc. in Economics, University of Sao Paulo, Brazil, 2007.
 ### Curriculum Vitae
 
 [in English](./about.html) <br/>
-[em Português (*lattes*)](./about.html)
+[em Português (*lattes*)](http://lattes.cnpq.br/7220754085757410)
 
 * * *
 
