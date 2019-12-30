@@ -4,7 +4,7 @@ Energy Research Analyst (study leave) <br/>
 Energy Economics Studies Department <br/>
 Energy Research Office (EPE), Brazil
 
-[Contact](./Contact.html) <br/>
+[Contact](./pages/Contact.html) <br/>
 
 * * *
 
