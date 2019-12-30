@@ -19,7 +19,7 @@ B.Sc. in Economics, University of Sao Paulo, Brazil, 2007.
 ### Curriculum Vitae
 
 [in English](./about.html) <br/>
-[em Português (*lattes*)](http://lattes.cnpq.br/7220754085757410)
+[em Português (*Lattes*)](http://lattes.cnpq.br/7220754085757410)
 
 * * *
 
@@ -47,13 +47,13 @@ Cultural Expenditure and Strategic Interaction Among Municipalities of Minas Ger
 
 ### Working in progress
 
-The Impact of Wind Power on the Brazilian Labor Market (with S. Goncalves and A. Chagas) [(link)](./about.html) <br/>
+The Impact of Wind Power on the Brazilian Labor Market (with S. Goncalves and A. Chagas) [(link)](./WindPowerLabor.html) <br/>
 
 
-Elasticities of Residential Demand for LPG in Brazil (with S. Goncalves) [(link)](./about.html) <br/>
+Elasticities of Residential Demand for LPG in Brazil (with S. Goncalves) [(link)](./ResidentialLPG.html) <br/>
 
 
-Poverty and Energy Transition: a Multinomial Analysis for Households in Brazil (with S. Goncalves) [(link)](./about.html) <br/>
+Poverty and Energy Transition: a Multinomial Analysis for Households in Brazil (with S. Goncalves) [(link)](./PovertyEnergy.html) <br/>
 
 
 
