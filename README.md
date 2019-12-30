@@ -1,6 +1,6 @@
 ### Position
 
-Energy Research Analyst (study leave) <br/>
+Energy Research Analyst (on leave) <br/>
 Energy Economics Studies Department <br/>
 Energy Research Office (EPE), Brazil
 
@@ -39,7 +39,7 @@ The Relationship Between Wind Farms and the Labor Market in the Brazilian Northe
 
 ### Working papers
 
-The Impact of Change in MSEs: Regulation in Municipalities in Sao Paulo State, Brazil (with A. Chagas and A. Almeida) <br/> 
+The Impact of Change in MSEs Regulation in Municipalities in Sao Paulo State, Brazil (with A. Chagas and A. Almeida) <br/> 
 
 Cultural Expenditure and Strategic Interaction Among Municipalities of Minas Gerais (with S. Goncalves) <br/>
 
