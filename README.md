@@ -1,10 +1,10 @@
-### Current Position
+### Position
 
-Energy Research Analyst <br/>
+Energy Research Analyst (study leave) <br/>
 Energy Economics Studies Department <br/>
 Energy Research Office (EPE), Brazil
 
-[Contact](./about.html) <br/>
+[Contact](./Contact.html) <br/>
 
 * * *
 
@@ -19,7 +19,7 @@ B.Sc. in Economics, University of Sao Paulo, Brazil, 2007.
 ### Curriculum Vitae
 
 [in English](./about.html) <br/>
-[em Português](./about.html)
+[em Português (*lattes*)](./about.html)
 
 * * *
 
