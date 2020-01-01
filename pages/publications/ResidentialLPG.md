@@ -1,0 +1,6 @@
+### Elasticities of Residential Demand for LPG in Brazil
+(with S. Goncalves)
+
+The consumption of clean fuel is a key factor for sustainable development and household welfare. Households use fuel as input to produce energy services, such as cooking. In general, affordability, accessibility, and the convenience of the fuel influence the consumption decision of households. However, in developing economies with high penetration of clean fuels, such as Brazil, it is understood that the main determinant is the affordability. Thus, this study aims to evaluate the residential demand for liquefied petroleum gas (LPG), taking into account the recent Brazilian social and economic changes. We apply static and dynamic models for panel data at the states level from 2002 to 2018, the period after the fuel price deregulation in the country. Our results suggest that the own-price, food price, income, and temperature influence the residential demand for LPG. Also, although demand is inelastic, we found that LPG consumption by households is more sensitive to changes in prices than income, both in the short and in the long run.
+
+[back](./README.html)
