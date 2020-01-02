@@ -33,7 +33,7 @@ Applied econometrics <br/>
 
 ### Publications
 
-The Relationship Between Wind Farms and the Labor Market in the Brazilian Northeast: an Analysis Using the Spatial Propensity Score (with S. Goncalves and A. Chagas), Revista Brasileira de Estudos Regionais e Urbanos, ***forthcoming***, 2019 [(Details)](./pages/publications/WindNortheast.html) <br/>  
+The Relationship Between Wind Farms and the Labor Market in the Brazilian Northeast: an Analysis Using the Spatial Propensity Score (with S. Goncalves and A. Chagas), Revista Brasileira de Estudos Regionais e Urbanos, ***forthcoming***, 2019 [[More]](./pages/publications/WindNortheast.html) <br/>  
 
 * * *
 
@@ -47,8 +47,10 @@ Cultural Expenditure and Strategic Interaction Among Municipalities of Minas Ger
 
 ### Working in progress
 
-The Impact of Wind Power on the Brazilian Labor Market (with S. Goncalves and A. Chagas) [(Details)](./pages/publications/WindPowerLabor.html) <br/>
+The Impact of Wind Power on the Brazilian Labor Market (with S. Goncalves and A. Chagas) [[More]](./pages/publications/WindPowerLabor.html) <br/>
 
 
-Elasticities of Residential Demand for LPG in Brazil (with S. Goncalves) [(Details)](./pages/publications/ResidentialLPG.html) <br/>
+Elasticities of Residential Demand for LPG in Brazil (with S. Goncalves) [[More]](./pages/publications/ResidentialLPG.html) <br/>
+
+Poverty and Energy Transition: a Multinomial Analysis for Households in Brazil (with S. Goncalves) [[More]](./pages/publications/PovertyEnergy.html) <br/>
 
