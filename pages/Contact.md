@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Contact informations
 
 E-mail: rodrigues.t@gmail.com
@@ -9,9 +8,6 @@ E-mail: rodrigues.t@gmail.com
 
 [GitHub](https://github.com/thiagoapr)
 
-<br/><br/> 
-
-[back](./README.html)
 
 
 
