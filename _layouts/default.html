@@ -20,14 +20,7 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo"/>
         {% endif %}
-
-	 <nav>
-    		<ul>
-        		<li><a href="/blog">Blog</a></li>
-			<li><a href="/teste">Teste</a></li>
-    		</ul>
-	</nav>
-	      
+  
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
@@ -35,8 +28,14 @@
         {% endif %}
 
 	      
+	<nav>
+    		<ul>
+        		<li><a href="/blog">Blog <strong>Anlysis</strong></a></li>
+			<li><a href="/teste">Teste <strong>Teste</strong></a></li>
+    		</ul>
+	</nav>
 	      
-	      
+	      	      
 	<ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
         </ul>
