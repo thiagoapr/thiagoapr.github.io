@@ -16,36 +16,18 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
-	      
-	      
-	<nav id="menu">
-	    <ul>
-		<li><a href="#">Home</a></li>
-		<li><a href="#">Produtos</a></li>
-		<li><a href="#">Missão</a></li>
-		<li><a href="#">Links</a></li>
-		<li><a href="#">Contato</a></li>
-	    </ul>
-	</nav>
-	      
-	      
-	      
-	      
-	      
+        	      
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo"/>
         {% endif %}
   
         <p>{{ site.description | default: site.github.project_tagline }}</p>
     
-	<!--<nav>>
-    		<ul>
-        		<li><a href="/Contact">View <strong>Contacts</strong></a></li>
-			<li><a href="/CV">View <strong>CV</strong></a></li>
-			<li><a href="/Analysis">View <strong>Analysis</strong></a></li>
-    		</ul>
-	<!</nav>-->
+	<nav id="menu">
+	    <ul>
+		<li><a href="./pages/Contact.html">Contact</a></li>
+	    </ul>
+	</nav>
 	       
 	      
         {% if site.show_downloads %}
