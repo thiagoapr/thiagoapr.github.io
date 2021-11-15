@@ -1,6 +1,3 @@
-Teste teste teste teste teste
-
-
 ### Position
 
 Energy Research Analyst (on leave) <br/>
@@ -21,8 +18,9 @@ B.Sc. in Economics, University of São a Paulo, Brazil, 2007.
 
 ### Curriculum Vitae
 
-[in English](./about.html) <br/>
+[in English](https://1drv.ms/b/s!AtM05b9f6Apa7AihifLzbz38mYjE?e=ms43me) <br/>
 [em Português (*Lattes*)](http://lattes.cnpq.br/7220754085757410)
+
 
 * * *
 
@@ -36,22 +34,14 @@ Applied econometrics <br/>
 
 ### Publications
 
+The Impact of Wind Power on the Brazilian Labor Market (with [S. Goncalves](http://www.solangegoncalves.com) and A. Chagas) [[More]](./pages/publications/WindPowerLabor.html) <br/>
+
 The Relationship Between Wind Farms and the Labor Market in the Brazilian Northeast: an Analysis Using the Spatial Propensity Score (with S. Goncalves and A. Chagas), Revista Brasileira de Estudos Regionais e Urbanos, ***forthcoming***, 2019 [[More]](./pages/publications/WindNortheast.html) <br/>  
-
-* * *
-
-### Working papers
-
-The Impact of Change in MSEs Regulation in Municipalities in Sao Paulo State, Brazil (with A. Chagas and A. Almeida) <br/> 
-
-Cultural Expenditure and Strategic Interaction Among Municipalities of Minas Gerais (with S. Goncalves) <br/>
-
 * * *
 
 ### Working in progress
 
 The Impact of Wind Power on the Brazilian Labor Market (with [S. Goncalves](http://www.solangegoncalves.com) and A. Chagas) [[More]](./pages/publications/WindPowerLabor.html) <br/>
-
 
 Elasticities of Residential Demand for LPG in Brazil (with [S. Goncalves](http://www.solangegoncalves.com)) [[More]](./pages/publications/ResidentialLPG.html) <br/>
 
