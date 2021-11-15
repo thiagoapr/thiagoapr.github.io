@@ -1,3 +1,6 @@
+Teste teste teste teste teste
+
+
 ### Position
 
 Energy Research Analyst (on leave) <br/>
@@ -10,9 +13,9 @@ Energy Research Office (EPE), Brazil
 
 ### Education
 
-Ph.D. Candidate in Economics, University of Sao Paulo, Brazil. <br/> 
+Ph.D. Candidate in Economics, University of São Paulo, Brazil. <br/> 
 M.Sc. in Economics, Federal University of Minas Gerais, Brazil, 2013. <br/> 
-B.Sc. in Economics, University of Sao Paulo, Brazil, 2007.
+B.Sc. in Economics, University of São a Paulo, Brazil, 2007.
 
 * * *
 
